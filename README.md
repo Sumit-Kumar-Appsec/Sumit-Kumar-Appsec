@@ -1,16 +1,8 @@
-<h1 align="center">Hey 👋, I'm Sumit kumar</h1>
-<p align="center">
-  👨‍💻 Api & Web Security Researcher | Appsec engineer <br>
-  🌐 Portfolio → <a href="https://kalki-x0.notion.site/portfolio"></a>
-</p>
+Hi there 👋
 
----
+Sumit kumar/
 
-### 🧠 What I Do
+To reach out, send a message here!
 
-Learning and Hunting
----
-
----
 
 
